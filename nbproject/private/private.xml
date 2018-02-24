@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/xampp/htdocs/auth/public/js/delete_button.js</file>
+            <file>file:/E:/xampp/htdocs/auth/routes/web.php</file>
+            <file>file:/E:/xampp/htdocs/auth/resources/views/users/admin_list.blade.php</file>
+            <file>file:/E:/xampp/htdocs/auth/resources/views/users/profile.blade.php</file>
+            <file>file:/E:/xampp/htdocs/auth/resources/views/layouts/sidebar.blade.php</file>
+            <file>file:/E:/xampp/htdocs/auth/app/Http/Controllers/UsersController.php</file>
+            <file>file:/E:/xampp/htdocs/auth/resources/views/users/admin_info.blade.php</file>
+            <file>file:/E:/xampp/htdocs/auth/resources/views/users/admin_form.blade.php</file>
+            <file>file:/E:/xampp/htdocs/auth/public/css/movie_admin.css</file>
+        </group>
+    </open-files>
+</project-private>
